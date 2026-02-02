@@ -1,3 +1,3 @@
 # mate-test-repositiry
 
-I am studying git and git lens 
+I am studying git and git lens
